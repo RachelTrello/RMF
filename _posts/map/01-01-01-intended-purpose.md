@@ -45,9 +45,19 @@ Have the purpose, setting, users, operators, or subjects, expectations, benefits
 
 <!--more-->
 
-Context includes the intended and actual setting in which it is deployed, the specific set of users, operators or subjects along with their expectations, concept of operations, intended purposes and impacts of system use, the necessary requirements to ensure the system can be optimally deployed and operated, potential negative impacts to individuals, groups, communities, organizations, and society and any other system or context specifications, or legal requirements, or impacts to the environment. Context may also include unintended, downstream, off-label, or other unforeseen scopes of application.
+Mapping context may include examination of the following: 
+- The intended and actual setting in which the AI is deployed, 
+- The specific set of users, 
+- Operators or subjects along with their expectations, 
+- Concept of operations, 
+- Intended purposes and impacts of system use, 
+- The necessary requirements to ensure the system can be optimally deployed and operated, 
+- Potential negative impacts to individuals, groups, communities, organizations, and society; or context-specific impacts such as legal requirements, or impacts to the environment. 
+- May also include identifying unintended, downstream, or other unforeseen externalities of application.
 
-A fundamental step to mapping context is having a broad and appropriate set of skills and perspectives at the table. Within an organization this means team composition- demographic, disciplinary, experiential- that can enhance creativity and the consideration of risks. Organizational management should recognize the importance of diversity beyond its business case. By providing license for all team members to freely engage in critical inquiry, management can work to ensure that pervasive institutional biases are not inadvertently squashing creativity. This commitment to diverse and inclusive teaming increases the ability of an organization to broaden their contextual perspectives, check their assumptions about context of use, recognize when systems are not functional within and out of the intended context, and identify constraints in real world applications that may lead to harmful impacts.
+A fundamental step to successfully mapping context is to incorporate diverse skill sets when establishing teams in order to increase the ability of an organization to broaden their contextual perspectives, check their assumptions about context of use, recognize when systems are not functional within and outside of the intended context, and identify constraints in real world applications that may lead to harmful impacts.
+
+Organizational management should recognize the importance of diversity beyond its business case and provide license for all team members to freely engage in critical inquiry. By broadening the sets of skills present at the table, management can work to ensure that pervasive institutional biases are not inadvertently squashing creativity. 
 
 <!--more-->
 
